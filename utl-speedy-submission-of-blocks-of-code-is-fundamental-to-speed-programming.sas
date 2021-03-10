@@ -4,6 +4,10 @@ I call it point and shoot programming.
 
 All of SAS can be put on a function key, mouse action or command macro.
 
+github
+https://tinyurl.com/yhazhnw6
+https://github.com/rogerjdeangelis/utl-speedy-submission-of-blocks-of-code-is-fundamental-to-speed-programming/blob/main/README.md
+
 https://tinyurl.com/3u4z4sfj
 https://stackoverflow.com/questions/66457629/is-there-a-shortcut-to-run-current-code-block-without-selecting
 
@@ -28,7 +32,7 @@ https://stackoverflow.com/questions/66457629/is-there-a-shortcut-to-run-current-
 
          RMB log;clear;out;clear;pgm;submit;home;log;
 
-      b. Place the cursor at the start of a block of code
+      b. Place the cursor at the start of a curly block of code
          The hit function RMB
 
          Right mouse button has this actions
@@ -62,7 +66,6 @@ https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-re
    run;
 }
 
-
 *_                   _
 (_)_ __  _ __  _   _| |_
 | | '_ \| '_ \| | | | __|
@@ -86,15 +89,27 @@ COMMAND ===>
 | '_ \| '__/ _ \ / __/ _ \/ __/ __|
 | |_) | | | (_) | (_|  __/\__ \__ \
 | .__/|_|  \___/ \___\___||___/___/
-|_|
+|_|            _
+  __ _      __| |_ __ __ _  __ _
+ / _` |    / _` | '__/ _` |/ _` |
+| (_| |_  | (_| | | | (_| | (_| |
+ \__,_(_)  \__,_|_|  \__,_|\__, |
+                           |___/
 ;
-
 Drag cursot over just
 
 00004    proc print data=sashelp.class(obs=5);
 00005    run;
 
 and hit RMB
+
+*_                        _         _     _            _
+| |__      ___ _   _ _ __| |_   _  | |__ | | ___   ___| | __
+| '_ \    / __| | | | '__| | | | | | '_ \| |/ _ \ / __| |/ /
+| |_) |  | (__| |_| | |  | | |_| | | |_) | | (_) | (__|   <
+|_.__(_)  \___|\__,_|_|  |_|\__, | |_.__/|_|\___/ \___|_|\_\
+                            |___/
+;
 
 Place cursor on the first curly bracket and
 hit RMB
